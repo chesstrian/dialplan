@@ -1,4 +1,4 @@
-IVRs
-====
+Dialplan
+========
 
-Some Asterisk IVRs
+Some Asterisk Implementations with Dialplan.
